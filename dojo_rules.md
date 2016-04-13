@@ -1,4 +1,4 @@
-dojo Rules
+Dojo Rules
 ==========
 * Always be on time
 * Always take off your shoes
@@ -7,4 +7,4 @@ dojo Rules
 * Respect your opponents
 * Most Sensei's should be respecd
 Hello world
-* coffee
+* no coffee in the dojo
